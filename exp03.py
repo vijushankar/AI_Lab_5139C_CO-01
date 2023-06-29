@@ -1,4 +1,13 @@
 """
+3
+control structure - 3
+CO1
+M1.01
+Develop simple python programs using decision control structures
+
+Problem : To determine if the current minute is odd or even
+
+
 Develop simple python programs using decision control structures
 
 Problem : To determine if the current minute is odd or even
